@@ -1,0 +1,12 @@
+{
+  "name": "get-path-data",
+  "version": "1.0.0",
+  "description": "package to obtain the values that arrive by url, thought for the client side",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Marco Cobian",
+  "license": "ISC"
+}
