@@ -1,6 +1,6 @@
 {
   "name": "get-path-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package to obtain the values that arrive by url, thought for the client side",
   "main": "src/index.js",
   "scripts": {
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Marco Cobian",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquitobb/get-path-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marquitobb/get-path-data/issues"
+  },
+  "homepage": "https://github.com/marquitobb/get-path-data#readme"
 }
